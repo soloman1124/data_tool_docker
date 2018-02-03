@@ -1,0 +1,12 @@
+version: '2'
+services:
+  app:
+    build: .
+    volumes:
+      - .:/usr/src/app
+    ports:
+      - 8888:8888
+    command:
+      - /bin/bash
+      - -c
+      - source activate datatool && jupyter notebook --allow-root --ip=0.0.0.0
