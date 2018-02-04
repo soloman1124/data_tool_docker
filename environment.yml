@@ -53,6 +53,7 @@ dependencies:
 - pandas=0.21.0=py35hee8c687_1
 - pandoc=1.19.2.1=hea2e7c5_1
 - pandocfilters=1.4.2=py35h1565a15_1
+- patsy=0.5.0=py35_0
 - pcre=8.41=hc27e229_1
 - pexpect=4.2.1=py35h8b56cb4_0
 - pickleshare=0.7.4=py35hd57304d_0
@@ -71,11 +72,13 @@ dependencies:
 - readline=7.0=ha6073c6_4
 - scikit-learn=0.19.1=py35hbf1f462_0
 - scipy=1.0.0=py35hcbbe4a2_0
+- seaborn=0.8.1=py35h04cba02_0
 - setuptools=36.5.0=py35ha8c1747_0
 - simplegeneric=0.8.1=py35h2ec4104_0
 - sip=4.18.1=py35h9eaea60_2
 - six=1.11.0=py35h423b573_1
 - sqlite=3.20.1=hb898158_2
+- statsmodels=0.8.0=py35haa9d50b_0
 - terminado=0.6=py35hce234ed_0
 - testpath=0.3.1=py35had42eaf_0
 - tk=8.6.7=hc745277_3
